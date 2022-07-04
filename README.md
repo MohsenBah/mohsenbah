@@ -2,7 +2,7 @@
 ### Hi there, I'm Mohsen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-As a analyst, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. I have no doubt I will do my best in every project, and no matter how rigorous the path, I will persevere in my attempts toward realizing my goals.
+As an analyst, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. I have no doubt I will do my best in every project, and no matter how rigorous the path, I will persevere in my attempts toward realizing my goals.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="408" height="318" />
   
