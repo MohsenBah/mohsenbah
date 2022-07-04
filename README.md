@@ -22,14 +22,12 @@ I am a Data Scientist - Analyst and Statistician from Canada.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+Working on: 
+
+<a href="https://github.com/MohsenBah/Credit_risk_prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsenBah&repo=Credit_risk_prediction&hide_border=false&&count_private=true&include_all_commits=true"/>
 </a>
 
 ### 🛠 &nbsp;Languages and Tools :
