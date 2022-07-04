@@ -20,11 +20,6 @@ I am a Data Scientist - Analyst and Statistician from Canada.
 </br>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-Working on: 
 
 <a href="https://github.com/MohsenBah/Credit_risk_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsenBah&repo=Credit_risk_prediction&hide_border=false&&count_private=true&include_all_commits=true"/>
