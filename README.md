@@ -19,7 +19,7 @@ I am a Data Scientist - Analyst and Statistician from Canada.
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mohsenbahr)
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week, I Spent My Time On:**
 
 <a href="https://github.com/MohsenBah/Credit_risk_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsenBah&repo=Credit_risk_prediction&hide_border=false&&count_private=true&include_all_commits=true"/>
