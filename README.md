@@ -7,7 +7,7 @@ As an analyst, I enjoy using my obsessive attention to detail, my unequivocal lo
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="408" height="318" />
   
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me:
 
 I am a Data Scientist - Analyst and Statistician from Canada. 
 
