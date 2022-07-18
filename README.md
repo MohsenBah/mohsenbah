@@ -15,7 +15,7 @@ I am a Data Scientist - Analyst and Statistician from Canada.
 - 🌱 I has recently started to write on Medium ( updating).
 - ⚡ In my free time I love to check leetcode to learn more about algorithm.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mbahremani)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://....medium.com/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@m.bahremani)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mohsenbahr)
 </br>
 
