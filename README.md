@@ -1,67 +1,95 @@
+# Hi, I'm Mohsen 👋
 
-### Hi there, I'm Mohsen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+I build **AI systems, secure data pipelines, and self-hosted infrastructure**.
 
+Currently focused on:
 
-As an analyst, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. I have no doubt I will do my best in every project, and no matter how rigorous the path, I will persevere in my attempts toward realizing my goals.
+- 🧠 LLM systems: RAG, local inference, multimodal AI
+- 🔐 Privacy & security: PHI redaction, audit logging, safe AI
+- ⚙️ Backend & infrastructure: FastAPI, Docker, Proxmox, Linux networking
+- 🌐 Full-stack apps: React, TypeScript, API-driven systems
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="408" height="318" />
-  
+---
 
-### :man_technologist: &nbsp;About Me:
+## 🚧 Current Focus
 
-I am a Data Scientist - Analyst and Statistician from Canada. 
+### Secure Clinical AI Inference Pipeline
 
-- 🔭 I’m working as a Data Scientist intern and building web applications.
-- 🌱 I has recently started to write on Medium ( updating).
-- ⚡ In my free time I love to check leetcode to learn more about algorithm.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mbahremani)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@m.bahremani)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mohsenbahr)
-</br>
+An end-to-end system for querying synthetic patient records with a local LLM while enforcing privacy and security controls.
 
-📊 **This Week, I Spent My Time On:**
+Planned components:
 
-<a href="https://github.com/MohsenBah/Credit_risk_prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohsenBah&repo=Credit_risk_prediction&hide_border=false&&count_private=true&include_all_commits=true"/>
-</a>
+- FHIR-based synthetic data (OpenEMR + Synthea)
+- PHI detection & redaction (Microsoft Presidio)
+- Vector search (Qdrant / Chroma)
+- Local LLM inference (Ollama / llama.cpp)
+- FastAPI gateway with:
+  - prompt injection protection
+  - output filtering
+  - rate limiting
+  - audit logging
 
-### 🛠 &nbsp;Languages and Tools :
+---
+
+## 🧪 Other Work
+
+- Self-hosted AI + security lab (Proxmox, VLANs, DNS, monitoring)
+- Backend services with FastAPI (auth, logging, system design)
+- Frontend apps with React + TypeScript (Refine, MUI)
+- Earlier data science and ML projects
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, TypeScript
+- MUI (Material UI), Refine
+- Vite
+
+**Backend**
+- Python, FastAPI, Flask
+- REST APIs, authentication, rate limiting
+
+**AI / ML**
+- LLMs (Ollama, llama.cpp)
+- Embeddings, vector databases
+- PyTorch, NLP
+
+**Data**
+- SQL, MySQL, Microsoft SQL Server
+- Pandas, NumPy, R
+
+**Infrastructure**
+- Linux, Docker, Proxmox
+- Networking, VLANs, DNS
+- Git, Bash
+
+---
+
+## 📌 Featured Projects
+
+Coming soon:
+
+- Secure Clinical AI Inference Pipeline
+- Self-hosted AI + Security Lab
+- FastAPI Security Gateway
+
+Older repositories reflect my earlier work in data science and analytics.
+
+---
+
+## 📈 GitHub Stats
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg " title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg " title="heroku" alt="Heroku " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-
-Learning:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg " title="django" alt="django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="60" height="60"/>&nbsp;
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohsenBah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenBah&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+---
 
+## 📫 Contact
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsenbah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenbah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-
-
-
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Mohsenbah.MohsenBah)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbahremani)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@m.bahremani)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mohsenbahr)
