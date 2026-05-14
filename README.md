@@ -79,14 +79,6 @@ Older repositories reflect my earlier work in data science and analytics.
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohsenBah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenBah&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
----
 
 ## 📫 Contact
 
